@@ -7,7 +7,7 @@ const urlsToCache = [
   '/manifest.json',
   '/icon-192x192.png',
   '/icon-512x512.png',
-  '/yasinb.html',
+  '/index.html',
   '/yasinb.js',
   'https://fonts.googleapis.com/css2?family=Amiri&family=Noto+Naskh+Arabic&family=Roboto&family=Scheherazade&family=Lateef&family=Almarai:wght@300;400;700&display=swap',
   'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css'
