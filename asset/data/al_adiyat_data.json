@@ -1,0 +1,948 @@
+[
+  [
+    {
+      "number": 6147,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَٰدِيَٰتِ ضَبْحًۭا",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6147,
+      "text": "Wal'aadi yaati dabha",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6147,
+      "text": "Demi kuda perang yang berlari kencang dengan terengah-engah,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6148,
+      "text": "فَٱلْمُورِيَٰتِ قَدْحًۭا",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6148,
+      "text": "Fal moori yaati qadha",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6148,
+      "text": "dan kuda yang mencetuskan api dengan pukulan (kuku kakinya),",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6149,
+      "text": "فَٱلْمُغِيرَٰتِ صُبْحًۭا",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6149,
+      "text": "Fal mugheeraati subha",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6149,
+      "text": "dan kuda yang menyerang dengan tiba-tiba di waktu pagi,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6150,
+      "text": "فَأَثَرْنَ بِهِۦ نَقْعًۭا",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6150,
+      "text": "Fa atharna bihee naq'a",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6150,
+      "text": "maka ia menerbangkan debu,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6151,
+      "text": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6151,
+      "text": "Fawa satna bihee jam'a",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6151,
+      "text": "dan menyerbu ke tengah-tengah kumpulan musuh,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6152,
+      "text": "إِنَّ ٱلْإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٌۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6152,
+      "text": "Innal-insana lirabbihee lakanood",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6152,
+      "text": "sesungguhnya manusia itu sangat ingkar, tidak berterima kasih kepada Tuhannya,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6153,
+      "text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6153,
+      "text": "Wa innahu 'alaa zaalika la shaheed",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6153,
+      "text": "dan sesungguhnya manusia itu menyaksikan (sendiri) keingkarannya,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6154,
+      "text": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6154,
+      "text": "Wa innahu lihubbil khairi la shadeed",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6154,
+      "text": "dan sesungguhnya dia sangat bakhil karena cintanya kepada harta.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6155,
+      "text": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6155,
+      "text": "Afala ya'lamu iza b'uthira ma filquboor",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6155,
+      "text": "Maka apakah dia tidak mengetahui apabila dibangkitkan apa yang ada di dalam kubur,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 542,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6156,
+      "text": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 542,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6156,
+      "text": "Wa hussila maa fis sudoor",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 542,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6156,
+      "text": "dan dilahirkan apa yang ada di dalam dada,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 542,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6157,
+      "text": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍۢ لَّخَبِيرٌۢ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 542,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6157,
+      "text": "Inna rabbahum bihim yauma 'izil la khabeer",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 542,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6157,
+      "text": "sesungguhnya Tuhan mereka pada hari itu Maha Mengetahui keadaan mereka.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 100,
+        "name": "سُورَةُ العَادِيَاتِ",
+        "englishName": "Al-Aadiyaat",
+        "englishNameTranslation": "The Chargers",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 600,
+      "ruku": 542,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+]

@@ -1,0 +1,1648 @@
+[
+  [
+    {
+      "number": 6107,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6107,
+      "text": "Iqra bismi rab bikal lazee khalaq",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6107,
+      "text": "Bacalah dengan (menyebut) nama Tuhanmu Yang menciptakan,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6108,
+      "text": "خَلَقَ ٱلْإِنسَٰنَ مِنْ عَلَقٍ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6108,
+      "text": "Khalaqal insaana min 'alaq",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6108,
+      "text": "Dia telah menciptakan manusia dari segumpal darah.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6109,
+      "text": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6109,
+      "text": "Iqra wa rab bukal akram",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6109,
+      "text": "Bacalah, dan Tuhanmulah Yang Maha Pemurah,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6110,
+      "text": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6110,
+      "text": "Al lazee 'allama bil qalam",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6110,
+      "text": "Yang mengajar (manusia) dengan perantaran kalam,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6111,
+      "text": "عَلَّمَ ٱلْإِنسَٰنَ مَا لَمْ يَعْلَمْ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6111,
+      "text": "'Al lamal insaana ma lam y'alam",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6111,
+      "text": "Dia mengajar kepada manusia apa yang tidak diketahuinya.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6112,
+      "text": "كَلَّآ إِنَّ ٱلْإِنسَٰنَ لَيَطْغَىٰٓ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6112,
+      "text": "Kallaa innal insaana layatghaa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6112,
+      "text": "Ketahuilah! Sesungguhnya manusia benar-benar melampaui batas,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6113,
+      "text": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6113,
+      "text": "Ar-ra aahus taghnaa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6113,
+      "text": "karena dia melihat dirinya serba cukup.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6114,
+      "text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6114,
+      "text": "Innna ilaa rabbikar ruj'aa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6114,
+      "text": "Sesungguhnya hanya kepada Tuhanmulah kembali(mu).",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6115,
+      "text": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6115,
+      "text": "Ara-aital lazee yanhaa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6115,
+      "text": "Bagaimana pendapatmu tentang orang yang melarang,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6116,
+      "text": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6116,
+      "text": "'Abdan iza sallaa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6116,
+      "text": "seorang hamba ketika mengerjakan shalat,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6117,
+      "text": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6117,
+      "text": "Ara-aita in kana 'alal hudaa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6117,
+      "text": "bagaimana pendapatmu jika orang yang melarang itu berada di atas kebenaran,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6118,
+      "text": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 12,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6118,
+      "text": "Au amara bit taqwaa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 12,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6118,
+      "text": "atau dia menyuruh bertakwa (kepada Allah)?",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 12,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6119,
+      "text": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 13,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6119,
+      "text": "Ara-aita in kaz zaba wa ta walla",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 13,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6119,
+      "text": "Bagaimana pendapatmu jika orang yang melarang itu mendustakan dan berpaling?",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 13,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6120,
+      "text": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 14,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6120,
+      "text": "Alam y'alam bi-an nal lahaa yaraa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 14,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6120,
+      "text": "Tidaklah dia mengetahui bahwa sesungguhnya Allah melihat segala perbuatannya?",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 14,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6121,
+      "text": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 15,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6121,
+      "text": "Kalla la illam yantahi la nasfa'am bin nasiyah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 15,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6121,
+      "text": "Ketahuilah, sungguh jika dia tidak berhenti (berbuat demikian) niscaya Kami tarik ubun-ubunnya,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 15,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6122,
+      "text": "نَاصِيَةٍۢ كَٰذِبَةٍ خَاطِئَةٍۢ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 16,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6122,
+      "text": "Nasiyatin kazi batin khaatiyah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 16,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6122,
+      "text": "(yaitu) ubun-ubun orang yang mendustakan lagi durhaka.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 16,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6123,
+      "text": "فَلْيَدْعُ نَادِيَهُۥ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 17,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6123,
+      "text": "Fal yad'u naadiyah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 17,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6123,
+      "text": "Maka biarlah dia memanggil golongannya (untuk menolongnya),",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 17,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6124,
+      "text": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 18,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6124,
+      "text": "Sanad 'uz zabaaniyah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 18,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6124,
+      "text": "kelak Kami akan memanggil malaikat Zabaniyah,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 18,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6125,
+      "text": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 19,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": {
+        "id": 15,
+        "recommended": false,
+        "obligatory": true
+      }
+    },
+    {
+      "number": 6125,
+      "text": "Kalla; la tuti'hu wasjud waqtarib",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 19,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": {
+        "id": 15,
+        "recommended": false,
+        "obligatory": true
+      }
+    },
+    {
+      "number": 6125,
+      "text": "sekali-kali jangan, janganlah kamu patuh kepadanya; dan sujudlah dan dekatkanlah (dirimu kepada Tuhan).",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 96,
+        "name": "سُورَةُ العَلَقِ",
+        "englishName": "Al-Alaq",
+        "englishNameTranslation": "The Clot",
+        "numberOfAyahs": 19,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 19,
+      "juz": 30,
+      "manzil": 7,
+      "page": 597,
+      "ruku": 538,
+      "hizbQuarter": 239,
+      "sajda": {
+        "id": 15,
+        "recommended": false,
+        "obligatory": true
+      }
+    }
+  ]
+]

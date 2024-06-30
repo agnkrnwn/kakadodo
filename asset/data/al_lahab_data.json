@@ -1,0 +1,432 @@
+[
+  [
+    {
+      "number": 6217,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ تَبَّتْ يَدَآ أَبِى لَهَبٍۢ وَتَبَّ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 111,
+        "name": "سُورَةُ المَسَدِ",
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6217,
+      "text": "Tab bat yadaa abee Lahabinw-wa tabb",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 111,
+        "name": "سُورَةُ المَسَدِ",
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6217,
+      "text": "Binasalah kedua tangan Abu Lahab dan sesungguhnya dia akan binasa.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 111,
+        "name": "سُورَةُ المَسَدِ",
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6218,
+      "text": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 111,
+        "name": "سُورَةُ المَسَدِ",
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6218,
+      "text": "Maa aghna 'anhu maaluhu wa ma kasab",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 111,
+        "name": "سُورَةُ المَسَدِ",
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6218,
+      "text": "Tidaklah berfaedah kepadanya harta bendanya dan apa yang ia usahakan.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 111,
+        "name": "سُورَةُ المَسَدِ",
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6219,
+      "text": "سَيَصْلَىٰ نَارًۭا ذَاتَ لَهَبٍۢ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 111,
+        "name": "سُورَةُ المَسَدِ",
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6219,
+      "text": "Sa yas laa naran zaata lahab",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 111,
+        "name": "سُورَةُ المَسَدِ",
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6219,
+      "text": "Kelak dia akan masuk ke dalam api yang bergejolak.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 111,
+        "name": "سُورَةُ المَسَدِ",
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6220,
+      "text": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 111,
+        "name": "سُورَةُ المَسَدِ",
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6220,
+      "text": "Wam ra-atuh hamma latal-hatab",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 111,
+        "name": "سُورَةُ المَسَدِ",
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6220,
+      "text": "Dan (begitu pula) istrinya, pembawa kayu bakar.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 111,
+        "name": "سُورَةُ المَسَدِ",
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6221,
+      "text": "فِى جِيدِهَا حَبْلٌۭ مِّن مَّسَدٍۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 111,
+        "name": "سُورَةُ المَسَدِ",
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6221,
+      "text": "Fee jeediha hab lum mim-masad",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 111,
+        "name": "سُورَةُ المَسَدِ",
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6221,
+      "text": "Yang di lehernya ada tali dari sabut.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 111,
+        "name": "سُورَةُ المَسَدِ",
+        "englishName": "Al-Masad",
+        "englishNameTranslation": "The Palm Fibre",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 603,
+      "ruku": 553,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+]

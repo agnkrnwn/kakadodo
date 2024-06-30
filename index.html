@@ -26,6 +26,12 @@
         .verse-container { transition: all 0.5s ease-out; }
         .sidebar { transition: all 0.3s; z-index: 10; position: fixed; }
         .bottom-nav { position: fixed; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.8); }
+        .arabic-text {
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+        }
+        .transliteration-text, .translation-text {
+            text-shadow: 0.5px 0.5px 1px rgba(0,0,0,0.3);
+        }
     </style>
 </head>
 <body class="bg-gradient-to-br from-indigo-900 to-purple-800 text-white min-h-screen flex">
@@ -35,8 +41,8 @@
             <a href="#" class="nav-link block py-2.5 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-page="home">
                 Beranda
             </a>
-            <a href="#" class="nav-link block py-2.5 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-page="bookmarks">
-                Bookmark
+            <a href="#" class="nav-link block py-2.5 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-page="surah-list">
+                Daftar Surat
             </a>
             <a href="#" class="nav-link block py-2.5 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-page="settings">
                 Pengaturan
@@ -80,11 +86,44 @@
                     </div>
                 </div>
 
-                <!-- Bookmarks Page -->
-                <div id="bookmarks" class="page hidden">
-                    <h2 class="text-2xl font-bold mb-4">Bookmarks</h2>
-                    <div id="bookmarksContainer">
-                        <!-- Bookmarks akan ditampilkan di sini -->
+                <!-- Surah List Page -->
+                <div id="surah-list" class="page hidden">
+                    <h2 class="text-2xl font-bold mb-4">Daftar Surat</h2>
+                    <div id="surahListContainer" class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <div class="mb-4">
+                            <input type="text" id="surahSearch" placeholder="Cari surat..." class="w-full p-2 rounded bg-white bg-opacity-20 text-white placeholder-gray-300">
+                        </div>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Fatihah">Al-Fatihah</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="An-Nas">An-Nas</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Falaq">Al-Falaq</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Ikhlas">Al-Ikhlas</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Lahab">Al-Lahab</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="An-Nasr">An-Nasr</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Kafirun">Al-Kafirun</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Kautsar">Al-Kautsar</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Maun">Al-Maun</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Quraisy">Al-Quraisy</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Fiil">Al-Fiil</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Humazah">Al-Humazah</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Asr">Al-Asr</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="At-Takatsur">At-Takatsur</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Qadr">Al-Qadr</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Zalzalah">Al-Zalzalah</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Bayyinah">Al-Bayyinah</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Qari_ah">Al-Qari'ah</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Adiyat">Al-Adiyat</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="At-Tin">At-Tin</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Insyirah">Al-Insyirah</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Ad-Dhuha">Ad-Dhuha</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Infitar">Al-Infitar</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Asy-Syams">Asy-Syams</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Ath-Thariq">Ath-Thariq</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Alaq">Al-Alaq</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-A_la">Al-A'la</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Balad">Al-Balad</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Ghasyiyah">Al-Ghasyiyah</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Al-Fajr">Al-Fajr</a>
+                        <a href="#" class="short-surah block py-2 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-surah="Yasin">Yasin</a>
                     </div>
                 </div>
 
@@ -103,27 +142,22 @@
                             <option value="Scheherazade">Scheherazade</option>
                             <option value="Lateef">Lateef</option>
                             <option value="Almarai">Almarai</option>
-                            <!-- Tambahkan opsi font lainnya di sini -->
                         </select>
                     </div>
-                    <div class="mb-4">
-                        <label class="block mb-2">Tampilkan Teks:</label>
-                        <div>
+                    <div class="mb-6">
+                        <label class="block mb-2 text-sm font-medium text-gray-700 dark:text-gray-300">Tampilkan Teks:</label>
+                        <div class="space-y-2">
                             <label class="inline-flex items-center">
-                                <input type="checkbox" id="showArabic" checked>
-                                <span class="ml-2">Arab</span>
+                                <input type="checkbox" id="showArabic" checked class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                                <span class="ml-2 text-sm text-gray-900 dark:text-gray-300">Arab</span>
                             </label>
-                        </div>
-                        <div>
                             <label class="inline-flex items-center">
-                                <input type="checkbox" id="showTranslation" checked>
-                                <span class="ml-2">Terjemahan</span>
+                                <input type="checkbox" id="showTranslation" checked class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                                <span class="ml-2 text-sm text-gray-900 dark:text-gray-300">Terjemahan</span>
                             </label>
-                        </div>
-                        <div>
                             <label class="inline-flex items-center">
-                                <input type="checkbox" id="showTransliteration" checked>
-                                <span class="ml-2">Latin</span>
+                                <input type="checkbox" id="showTransliteration" checked class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                                <span class="ml-2 text-sm text-gray-900 dark:text-gray-300">Latin</span>
                             </label>
                         </div>
                     </div>
@@ -138,13 +172,13 @@
         <nav class="bottom-nav md:hidden">
             <div class="flex justify-around py-2">
                 <a href="#" class="nav-link text-white" data-page="home"><i class="fas fa-home"></i></a>
-                <a href="#" class="nav-link text-white" data-page="bookmarks"><i class="fas fa-bookmark"></i></a>
+                <a href="#" class="nav-link text-white" data-page="surah-list"><i class="fas fa-list"></i></a>
                 <a href="#" class="nav-link text-white" data-page="settings"><i class="fas fa-cog"></i></a>
             </div>
         </nav>
     </div>
 
-    <script src="yasinb.js"></script>
+    <script src="yasina.js"></script>
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {

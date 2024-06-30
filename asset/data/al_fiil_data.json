@@ -1,0 +1,432 @@
+[
+  [
+    {
+      "number": 6189,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 105,
+        "name": "سُورَةُ الفِيلِ",
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6189,
+      "text": "Alam tara kaifa fa'ala rabbuka bi ashaabil feel",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 105,
+        "name": "سُورَةُ الفِيلِ",
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6189,
+      "text": "Apakah kamu tidak memperhatikan bagaimana Tuhanmu telah bertindak terhadap tentara bergajah?",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 105,
+        "name": "سُورَةُ الفِيلِ",
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6190,
+      "text": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍۢ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 105,
+        "name": "سُورَةُ الفِيلِ",
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6190,
+      "text": "Alam yaj'al kai dahum fee tad leel",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 105,
+        "name": "سُورَةُ الفِيلِ",
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6190,
+      "text": "Bukankah Dia telah menjadikan tipu daya mereka (untuk menghancurkan Ka'bah) itu sia-sia?",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 105,
+        "name": "سُورَةُ الفِيلِ",
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6191,
+      "text": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 105,
+        "name": "سُورَةُ الفِيلِ",
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6191,
+      "text": "Wa arsala 'alaihim tairan abaabeel",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 105,
+        "name": "سُورَةُ الفِيلِ",
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6191,
+      "text": "dan Dia mengirimkan kapada mereka burung yang berbondong-bondong,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 105,
+        "name": "سُورَةُ الفِيلِ",
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6192,
+      "text": "تَرْمِيهِم بِحِجَارَةٍۢ مِّن سِجِّيلٍۢ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 105,
+        "name": "سُورَةُ الفِيلِ",
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6192,
+      "text": "Tar meehim bi hi jaaratim min sij jeel",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 105,
+        "name": "سُورَةُ الفِيلِ",
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6192,
+      "text": "yang melempari mereka dengan batu (berasal) dari tanah yang terbakar,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 105,
+        "name": "سُورَةُ الفِيلِ",
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6193,
+      "text": "فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 105,
+        "name": "سُورَةُ الفِيلِ",
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6193,
+      "text": "Faja 'alahum ka'asfim m'akool",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 105,
+        "name": "سُورَةُ الفِيلِ",
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6193,
+      "text": "lalu Dia menjadikan mereka seperti daun-daun yang dimakan (ulat).",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 105,
+        "name": "سُورَةُ الفِيلِ",
+        "englishName": "Al-Fil",
+        "englishNameTranslation": "The Elephant",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 601,
+      "ruku": 547,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+]

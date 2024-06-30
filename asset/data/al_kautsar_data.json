@@ -1,0 +1,260 @@
+[
+  [
+    {
+      "number": 6205,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 108,
+        "name": "سُورَةُ الكَوۡثَرِ",
+        "englishName": "Al-Kawthar",
+        "englishNameTranslation": "Abundance",
+        "numberOfAyahs": 3,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 602,
+      "ruku": 550,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6205,
+      "text": "Innaa a'taina kal kauthar",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 108,
+        "name": "سُورَةُ الكَوۡثَرِ",
+        "englishName": "Al-Kawthar",
+        "englishNameTranslation": "Abundance",
+        "numberOfAyahs": 3,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 602,
+      "ruku": 550,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6205,
+      "text": "Sesungguhnya Kami telah memberikan kepadamu nikmat yang banyak.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 108,
+        "name": "سُورَةُ الكَوۡثَرِ",
+        "englishName": "Al-Kawthar",
+        "englishNameTranslation": "Abundance",
+        "numberOfAyahs": 3,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 602,
+      "ruku": 550,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6206,
+      "text": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 108,
+        "name": "سُورَةُ الكَوۡثَرِ",
+        "englishName": "Al-Kawthar",
+        "englishNameTranslation": "Abundance",
+        "numberOfAyahs": 3,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 602,
+      "ruku": 550,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6206,
+      "text": "Fa salli li rabbika wanhar",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 108,
+        "name": "سُورَةُ الكَوۡثَرِ",
+        "englishName": "Al-Kawthar",
+        "englishNameTranslation": "Abundance",
+        "numberOfAyahs": 3,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 602,
+      "ruku": 550,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6206,
+      "text": "Maka dirikanlah shalat karena Tuhanmu; dan berkorbanlah.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 108,
+        "name": "سُورَةُ الكَوۡثَرِ",
+        "englishName": "Al-Kawthar",
+        "englishNameTranslation": "Abundance",
+        "numberOfAyahs": 3,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 602,
+      "ruku": 550,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6207,
+      "text": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 108,
+        "name": "سُورَةُ الكَوۡثَرِ",
+        "englishName": "Al-Kawthar",
+        "englishNameTranslation": "Abundance",
+        "numberOfAyahs": 3,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 602,
+      "ruku": 550,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6207,
+      "text": "Inna shani-aka huwal abtar",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 108,
+        "name": "سُورَةُ الكَوۡثَرِ",
+        "englishName": "Al-Kawthar",
+        "englishNameTranslation": "Abundance",
+        "numberOfAyahs": 3,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 602,
+      "ruku": 550,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6207,
+      "text": "Sesungguhnya orang-orang yang membenci kamu dialah yang terputus.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 108,
+        "name": "سُورَةُ الكَوۡثَرِ",
+        "englishName": "Al-Kawthar",
+        "englishNameTranslation": "Abundance",
+        "numberOfAyahs": 3,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 602,
+      "ruku": 550,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+]

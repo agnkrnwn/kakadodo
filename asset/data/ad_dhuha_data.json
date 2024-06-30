@@ -1,0 +1,948 @@
+[
+  [
+    {
+      "number": 6080,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلضُّحَىٰ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6080,
+      "text": "Wad duhaa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6080,
+      "text": "Demi waktu matahari sepenggalahan naik,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6081,
+      "text": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6081,
+      "text": "Wal laili iza sajaa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6081,
+      "text": "dan demi malam apabila telah sunyi (gelap),",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6082,
+      "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6082,
+      "text": "Ma wad da'aka rabbuka wa ma qalaa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6082,
+      "text": "Tuhanmu tiada meninggalkan kamu dan tiada (pula) benci kepadamu.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6083,
+      "text": "وَلَلْءَاخِرَةُ خَيْرٌۭ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6083,
+      "text": "Walal-aakhiratu khairul laka minal-oola",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6083,
+      "text": "Dan sesungguhnya hari kemudian itu lebih baik bagimu daripada yang sekarang (permulaan).",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6084,
+      "text": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6084,
+      "text": "Wa la sawfa y'uteeka rabbuka fatarda",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6084,
+      "text": "Dan kelak Tuhanmu pasti memberikan karunia-Nya kepadamu, lalu (hati) kamu menjadi puas.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6085,
+      "text": "أَلَمْ يَجِدْكَ يَتِيمًۭا فَـَٔاوَىٰ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6085,
+      "text": "Alam ya jidka yateeman fa aawaa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6085,
+      "text": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu?",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6086,
+      "text": "وَوَجَدَكَ ضَآلًّۭا فَهَدَىٰ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6086,
+      "text": "Wa wa jadaka daal lan fahada",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6086,
+      "text": "Dan Dia mendapatimu sebagai seorang yang bingung, lalu Dia memberikan petunjuk.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6087,
+      "text": "وَوَجَدَكَ عَآئِلًۭا فَأَغْنَىٰ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6087,
+      "text": "Wa wa jadaka 'aa-ilan fa aghnaa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6087,
+      "text": "Dan Dia mendapatimu sebagai seorang yang kekurangan, lalu Dia memberikan kecukupan.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6088,
+      "text": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6088,
+      "text": "Fa am mal yateema fala taqhar",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6088,
+      "text": "Sebab itu, terhadap anak yatim janganlah kamu berlaku sewenang-wenang.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6089,
+      "text": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6089,
+      "text": "Wa am mas saa-ila fala tanhar",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6089,
+      "text": "Dan terhadap orang yang minta-minta, janganlah kamu menghardiknya.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6090,
+      "text": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6090,
+      "text": "Wa amma bi ni'mati rabbika fahad dith",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6090,
+      "text": "Dan terhadap nikmat Tuhanmu, maka hendaklah kamu siarkan.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 93,
+        "name": "سُورَةُ الضُّحَىٰ",
+        "englishName": "Ad-Dhuhaa",
+        "englishNameTranslation": "The Morning Hours",
+        "numberOfAyahs": 11,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 596,
+      "ruku": 535,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ]
+]

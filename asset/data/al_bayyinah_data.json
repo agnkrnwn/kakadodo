@@ -1,0 +1,690 @@
+[
+  [
+    {
+      "number": 6131,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَمْ يَكُنِ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ مُنفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ ٱلْبَيِّنَةُ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6131,
+      "text": "Lam ya kunil lazeena kafaru min ahlil kitaabi wal mushri keena mun fak keena hattaa ta-tiya humul bayyinah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6131,
+      "text": "Orang-orang kafir yakni ahli Kitab dan orang-orang musyrik (mengatakan bahwa mereka) tidak akan meninggalkan (agamanya) sebelum datang kepada mereka bukti yang nyata,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6132,
+      "text": "رَسُولٌۭ مِّنَ ٱللَّهِ يَتْلُوا۟ صُحُفًۭا مُّطَهَّرَةًۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6132,
+      "text": "Rasoolum minal laahi yatlu suhufam mutahharah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6132,
+      "text": "(yaitu) seorang Rasul dari Allah (Muhammad) yang membacakan lembaran-lembaran yang disucikan (Al Quran),",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6133,
+      "text": "فِيهَا كُتُبٌۭ قَيِّمَةٌۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6133,
+      "text": "Feeha kutubun qaiyimah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6133,
+      "text": "di dalamnya terdapat (isi) Kitab-kitab yang lurus.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6134,
+      "text": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَتْهُمُ ٱلْبَيِّنَةُ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6134,
+      "text": "Wa maa tafarraqal lazeena ootul kitaaba il-la mim b'adi ma jaa-at humul baiyyinah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6134,
+      "text": "Dan tidaklah berpecah belah orang-orang yang didatangkan Al Kitab (kepada mereka) melainkan sesudah datang kepada mereka bukti yang nyata.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6135,
+      "text": "وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوا۟ ٱللَّهَ مُخْلِصِينَ لَهُ ٱلدِّينَ حُنَفَآءَ وَيُقِيمُوا۟ ٱلصَّلَوٰةَ وَيُؤْتُوا۟ ٱلزَّكَوٰةَ ۚ وَذَٰلِكَ دِينُ ٱلْقَيِّمَةِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6135,
+      "text": "Wa maa umiroo il-la liy'abu dul laaha mukhliseena lahud-deena huna faa-a wa yuqeemus salaahta wa yu-tuz zakaata; wa zaalika deenul qaiyimah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6135,
+      "text": "Padahal mereka tidak disuruh kecuali supaya menyembah Allah dengan memurnikan ketaatan kepada-Nya dalam (menjalankan) agama yang lurus, dan supaya mereka mendirikan shalat dan menunaikan zakat; dan yang demikian itulah agama yang lurus.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6136,
+      "text": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَٰبِ وَٱلْمُشْرِكِينَ فِى نَارِ جَهَنَّمَ خَٰلِدِينَ فِيهَآ ۚ أُو۟لَٰٓئِكَ هُمْ شَرُّ ٱلْبَرِيَّةِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6136,
+      "text": "Innal lazeena kafaru min ahlil kitaabi wal mushri keena fee nari jahan nama khaali deena feeha; ulaa-ika hum shar rul ba reeyah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6136,
+      "text": "Sesungguhnya orang-orang yang kafir yakni ahli Kitab dan orang-orang yang musyrik (akan masuk) ke neraka Jahannam; mereka kekal di dalamnya. Mereka itu adalah seburuk-buruk makhluk.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6137,
+      "text": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ أُو۟لَٰٓئِكَ هُمْ خَيْرُ ٱلْبَرِيَّةِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6137,
+      "text": "Innal lazeena aamanu wa 'amilus saalihaati ula-ika hum khairul bareey yah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6137,
+      "text": "Sesungguhnya orang-orang yang beriman dan mengerjakan amal saleh, mereka itu adalah sebaik-baik makhluk.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 598,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6138,
+      "text": "جَزَآؤُهُمْ عِندَ رَبِّهِمْ جَنَّٰتُ عَدْنٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدًۭا ۖ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِىَ رَبَّهُۥ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6138,
+      "text": "Jazaa-uhum inda rabbihim jan naatu 'adnin tajree min tahtihal an haaru khalideena feeha abada; radiy-yallaahu 'anhum wa ra du 'an zaalika liman khashiya rabbah.",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    },
+    {
+      "number": 6138,
+      "text": "Balasan mereka di sisi Tuhan mereka ialah surga 'Adn yang mengalir di bawahnya sungai-sungai; mereka kekal di dalamnya selama-lamanya. Allah ridha terhadap mereka dan merekapun ridha kepada-Nya. Yang demikian itu adalah (balasan) bagi orang yang takut kepada Tuhannya.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 98,
+        "name": "سُورَةُ البَيِّنَةِ",
+        "englishName": "Al-Bayyina",
+        "englishNameTranslation": "The Evidence",
+        "numberOfAyahs": 8,
+        "revelationType": "Medinan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 599,
+      "ruku": 540,
+      "hizbQuarter": 239,
+      "sajda": false
+    }
+  ]
+]

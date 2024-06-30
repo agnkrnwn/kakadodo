@@ -1,0 +1,2238 @@
+[
+  [
+    {
+      "number": 5968,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَٰشِيَةِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5968,
+      "text": "Hal ataaka hadeesul ghaashiyah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5968,
+      "text": "Sudah datangkah kepadamu berita (tentang) hari pembalasan?",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5969,
+      "text": "وُجُوهٌۭ يَوْمَئِذٍ خَٰشِعَةٌ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5969,
+      "text": "Wujoohuny yawma 'izin khaashi'ah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5969,
+      "text": "Banyak muka pada hari itu tunduk terhina,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5970,
+      "text": "عَامِلَةٌۭ نَّاصِبَةٌۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5970,
+      "text": "'Aamilatun naasibah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5970,
+      "text": "bekerja keras lagi kepayahan,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5971,
+      "text": "تَصْلَىٰ نَارًا حَامِيَةًۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5971,
+      "text": "Taslaa naaran haamiyah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5971,
+      "text": "memasuki api yang sangat panas (neraka),",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5972,
+      "text": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍۢ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5972,
+      "text": "Tusqaa min 'aynin aaniyah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5972,
+      "text": "diberi minum (dengan air) dari sumber yang sangat panas.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5973,
+      "text": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍۢ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5973,
+      "text": "Laisa lahum ta'aamun illaa min daree'",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5973,
+      "text": "Mereka tiada memperoleh makanan selain dari pohon yang berduri,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5974,
+      "text": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍۢ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5974,
+      "text": "Laa yusminu wa laa yughnee min joo'",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5974,
+      "text": "yang tidak menggemukkan dan tidak pula menghilangkan lapar.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5975,
+      "text": "وُجُوهٌۭ يَوْمَئِذٍۢ نَّاعِمَةٌۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5975,
+      "text": "Wujoohuny yawma 'izin naa'imah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5975,
+      "text": "Banyak muka pada hari itu berseri-seri,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5976,
+      "text": "لِّسَعْيِهَا رَاضِيَةٌۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5976,
+      "text": "Lisa'yihaa raadiyah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5976,
+      "text": "merasa senang karena usahanya,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5977,
+      "text": "فِى جَنَّةٍ عَالِيَةٍۢ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5977,
+      "text": "Fee jannatin 'aaliyah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5977,
+      "text": "dalam surga yang tinggi,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5978,
+      "text": "لَّا تَسْمَعُ فِيهَا لَٰغِيَةًۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5978,
+      "text": "Laa tasma'u feehaa laaghiyah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5978,
+      "text": "tidak kamu dengar di dalamnya perkataan yang tidak berguna.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5979,
+      "text": "فِيهَا عَيْنٌۭ جَارِيَةٌۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 12,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5979,
+      "text": "Feehaa 'aynun jaariyah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 12,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5979,
+      "text": "Di dalamnya ada mata air yang mengalir.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 12,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5980,
+      "text": "فِيهَا سُرُرٌۭ مَّرْفُوعَةٌۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 13,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5980,
+      "text": "Feehaa sururum marfoo'ah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 13,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5980,
+      "text": "Di dalamnya ada takhta-takhta yang ditinggikan,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 13,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5981,
+      "text": "وَأَكْوَابٌۭ مَّوْضُوعَةٌۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 14,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5981,
+      "text": "Wa akwaabum mawdoo 'ah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 14,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5981,
+      "text": "dan gelas-gelas yang terletak (di dekatnya),",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 14,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5982,
+      "text": "وَنَمَارِقُ مَصْفُوفَةٌۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 15,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5982,
+      "text": "Wa namaariqu masfoofah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 15,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5982,
+      "text": "dan bantal-bantal sandaran yang tersusun,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 15,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5983,
+      "text": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 16,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5983,
+      "text": "Wa zaraabiyyu mabsoosah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 16,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5983,
+      "text": "dan permadani-permadani yang terhampar.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 16,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5984,
+      "text": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 17,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5984,
+      "text": "Afalaa yanzuroona ilalibili kaifa khuliqat",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 17,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5984,
+      "text": "Maka apakah mereka tidak memperhatikan unta bagaimana dia diciptakan,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 17,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5985,
+      "text": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 18,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5985,
+      "text": "Wa ilas samaaa'i kaifa rufi'at",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 18,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5985,
+      "text": "Dan langit, bagaimana ia ditinggikan?",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 18,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5986,
+      "text": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 19,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5986,
+      "text": "Wa ilal jibaali kaifa nusibat",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 19,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5986,
+      "text": "Dan gunung-gunung bagaimana ia ditegakkan?",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 19,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5987,
+      "text": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 20,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5987,
+      "text": "Wa ilal ardi kaifa sutihat",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 20,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5987,
+      "text": "Dan bumi bagaimana ia dihamparkan?",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 20,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5988,
+      "text": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 21,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5988,
+      "text": "Fazakkir innama anta Muzakkir",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 21,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5988,
+      "text": "Maka berilah peringatan, karena sesungguhnya kamu hanyalah orang yang memberi peringatan.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 21,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5989,
+      "text": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 22,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5989,
+      "text": "Lasta 'alaihim bimusaitir",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 22,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5989,
+      "text": "Kamu bukanlah orang yang berkuasa atas mereka,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 22,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5990,
+      "text": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 23,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5990,
+      "text": "Illaa man tawallaa wa kafar",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 23,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5990,
+      "text": "tetapi orang yang berpaling dan kafir,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 23,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5991,
+      "text": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 24,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5991,
+      "text": "Fa yu'azzibuhul laahul 'azaabal akbar",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 24,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5991,
+      "text": "maka Allah akan mengazabnya dengan azab yang besar.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 24,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5992,
+      "text": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 25,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5992,
+      "text": "Innaa ilainaaa iyaabahum",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 25,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5992,
+      "text": "Sesungguhnya kepada Kami-lah kembali mereka,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 25,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5993,
+      "text": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 26,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5993,
+      "text": "Summa inna 'alainaa hisaabahum",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 26,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    },
+    {
+      "number": 5993,
+      "text": "kemudian sesungguhnya kewajiban Kami-lah menghisab mereka.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 88,
+        "name": "سُورَةُ الغَاشِيَةِ",
+        "englishName": "Al-Ghaashiya",
+        "englishNameTranslation": "The Overwhelming",
+        "numberOfAyahs": 26,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 26,
+      "juz": 30,
+      "manzil": 7,
+      "page": 592,
+      "ruku": 530,
+      "hizbQuarter": 237,
+      "sajda": false
+    }
+  ]
+]

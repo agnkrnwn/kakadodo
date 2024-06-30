@@ -1,0 +1,518 @@
+[
+  [
+    {
+      "number": 6231,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6231,
+      "text": "Qul a'uzu birabbin naas",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6231,
+      "text": "Katakanlah: \"Aku berlindung kepada Tuhan (yang memelihara dan menguasai) manusia.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6232,
+      "text": "مَلِكِ ٱلنَّاسِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6232,
+      "text": "Malikin naas",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6232,
+      "text": "Raja manusia.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6233,
+      "text": "إِلَٰهِ ٱلنَّاسِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6233,
+      "text": "Ilaahin naas",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6233,
+      "text": "Sembahan manusia.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6234,
+      "text": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6234,
+      "text": "Min sharril was waasil khannaas",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6234,
+      "text": "Dari kejahatan (bisikan) syaitan yang biasa bersembunyi,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6235,
+      "text": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6235,
+      "text": "Al lazee yuwas wisu fee sudoorin naas",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6235,
+      "text": "yang membisikkan (kejahatan) ke dalam dada manusia,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6236,
+      "text": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6236,
+      "text": "Minal jinnati wan naas",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6236,
+      "text": "dari (golongan) jin dan manusia.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 114,
+        "name": "سُورَةُ النَّاسِ",
+        "englishName": "An-Naas",
+        "englishNameTranslation": "Mankind",
+        "numberOfAyahs": 6,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 556,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+]

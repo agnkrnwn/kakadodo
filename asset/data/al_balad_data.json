@@ -1,0 +1,1722 @@
+[
+  [
+    {
+      "number": 6024,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَٰذَا ٱلْبَلَدِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6024,
+      "text": "Laaa uqsimu bihaazal balad",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6024,
+      "text": "Aku benar-benar bersumpah dengan kota ini (Mekah),",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6025,
+      "text": "وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6025,
+      "text": "Wa anta hillum bihaazal balad",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6025,
+      "text": "dan kamu (Muhammad) bertempat di kota Mekah ini,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6026,
+      "text": "وَوَالِدٍۢ وَمَا وَلَدَ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6026,
+      "text": "Wa waalidinw wa maa walad",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6026,
+      "text": "dan demi bapak dan anaknya.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6027,
+      "text": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6027,
+      "text": "Laqad khalaqnal insaana fee kabad",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6027,
+      "text": "Sesungguhnya Kami telah menciptakan manusia berada dalam susah payah.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6028,
+      "text": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6028,
+      "text": "Ayahsabu al-lai yaqdira 'alaihi ahad",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6028,
+      "text": "Apakah manusia itu menyangka bahwa sekali-kali tiada seorangpun yang berkuasa atasnya?",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6029,
+      "text": "يَقُولُ أَهْلَكْتُ مَالًۭا لُّبَدًا",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6029,
+      "text": "Yaqoolu ahlaktu maalal lubadaa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6029,
+      "text": "Dan mengatakan: \"Aku telah menghabiskan harta yang banyak\".",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6030,
+      "text": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6030,
+      "text": "Ayahsabu al lam yarahooo ahad",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6030,
+      "text": "Apakah dia menyangka bahwa tiada seorangpun yang melihatnya?",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6031,
+      "text": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6031,
+      "text": "Alam naj'al lahoo 'aynayn",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6031,
+      "text": "Bukankah Kami telah memberikan kepadanya dua buah mata,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6032,
+      "text": "وَلِسَانًۭا وَشَفَتَيْنِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6032,
+      "text": "Wa lisaananw wa shafatayn",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6032,
+      "text": "lidah dan dua buah bibir.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6033,
+      "text": "وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6033,
+      "text": "Wa hadaynaahun najdayn",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6033,
+      "text": "Dan Kami telah menunjukkan kepadanya dua jalan,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6034,
+      "text": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6034,
+      "text": "Falaq tahamal-'aqabah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6034,
+      "text": "Tetapi dia tiada menempuh jalan yang mendaki lagi sukar.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6035,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 12,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6035,
+      "text": "Wa maaa adraaka mal'aqabah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 12,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6035,
+      "text": "Tahukah kamu apakah jalan yang mendaki lagi sukar itu?",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 12,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6036,
+      "text": "فَكُّ رَقَبَةٍ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 13,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6036,
+      "text": "Fakku raqabah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 13,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6036,
+      "text": "(yaitu) melepaskan budak dari perbudakan,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 13,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6037,
+      "text": "أَوْ إِطْعَٰمٌۭ فِى يَوْمٍۢ ذِى مَسْغَبَةٍۢ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 14,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6037,
+      "text": "Aw it'aamun fee yawmin zee masghabah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 14,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6037,
+      "text": "atau memberi makan pada hari kelaparan,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 14,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6038,
+      "text": "يَتِيمًۭا ذَا مَقْرَبَةٍ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 15,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6038,
+      "text": "Yateeman zaa maqrabah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 15,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6038,
+      "text": "(kepada) anak yatim yang ada hubungan kerabat,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 15,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6039,
+      "text": "أَوْ مِسْكِينًۭا ذَا مَتْرَبَةٍۢ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 16,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6039,
+      "text": "Aw miskeenan zaa matrabah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 16,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6039,
+      "text": "atau kepada orang miskin yang sangat fakir.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 16,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6040,
+      "text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 17,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6040,
+      "text": "Summa kaana minal lazeena aamanoo wa tawaasaw bissabri wa tawaasaw bilmarhamah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 17,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6040,
+      "text": "Dan dia (tidak pula) termasuk orang-orang yang beriman dan saling berpesan untuk bersabar dan saling berpesan untuk berkasih sayang.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 17,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6041,
+      "text": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 18,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6041,
+      "text": "Ulaaa'ika As-haabul maimanah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 18,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6041,
+      "text": "Mereka (orang-orang yang beriman dan saling berpesan itu) adalah golongan kanan.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 18,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6042,
+      "text": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 19,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6042,
+      "text": "Wallazeena kafaroo bi aayaatinaa hum as-haabul Mash'amah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 19,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6042,
+      "text": "Dan orang-orang yang kafir kepada ayat-ayat Kami, mereka itu adalah golongan kiri.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 19,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6043,
+      "text": "عَلَيْهِمْ نَارٌۭ مُّؤْصَدَةٌۢ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 20,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6043,
+      "text": "Alaihim naarum mu'sadah",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 20,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    },
+    {
+      "number": 6043,
+      "text": "Mereka berada dalam neraka yang ditutup rapat.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 90,
+        "name": "سُورَةُ البَلَدِ",
+        "englishName": "Al-Balad",
+        "englishNameTranslation": "The City",
+        "numberOfAyahs": 20,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 20,
+      "juz": 30,
+      "manzil": 7,
+      "page": 594,
+      "ruku": 532,
+      "hizbQuarter": 238,
+      "sajda": false
+    }
+  ]
+]

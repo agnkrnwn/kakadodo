@@ -1,0 +1,432 @@
+[
+  [
+    {
+      "number": 6226,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 113,
+        "name": "سُورَةُ الفَلَقِ",
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6226,
+      "text": "Qul a'uzoo bi rabbil-falaq",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 113,
+        "name": "سُورَةُ الفَلَقِ",
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6226,
+      "text": "Katakanlah: \"Aku berlindung kepada Tuhan Yang Menguasai subuh,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 113,
+        "name": "سُورَةُ الفَلَقِ",
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6227,
+      "text": "مِن شَرِّ مَا خَلَقَ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 113,
+        "name": "سُورَةُ الفَلَقِ",
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6227,
+      "text": "Min sharri ma khalaq",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 113,
+        "name": "سُورَةُ الفَلَقِ",
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6227,
+      "text": "dari kejahatan makhluk-Nya,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 113,
+        "name": "سُورَةُ الفَلَقِ",
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6228,
+      "text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 113,
+        "name": "سُورَةُ الفَلَقِ",
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6228,
+      "text": "Wa min sharri ghasiqin iza waqab",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 113,
+        "name": "سُورَةُ الفَلَقِ",
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6228,
+      "text": "dan dari kejahatan malam apabila telah gelap gulita,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 113,
+        "name": "سُورَةُ الفَلَقِ",
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6229,
+      "text": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 113,
+        "name": "سُورَةُ الفَلَقِ",
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6229,
+      "text": "Wa min sharrin-naffaa-thaati fil 'uqad",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 113,
+        "name": "سُورَةُ الفَلَقِ",
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6229,
+      "text": "dan dari kejahatan wanita-wanita tukang sihir yang menghembus pada buhul-buhul,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 113,
+        "name": "سُورَةُ الفَلَقِ",
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 6230,
+      "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 113,
+        "name": "سُورَةُ الفَلَقِ",
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6230,
+      "text": "Wa min shar ri haasidin iza hasad",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 113,
+        "name": "سُورَةُ الفَلَقِ",
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    },
+    {
+      "number": 6230,
+      "text": "dan dari kejahatan pendengki bila ia dengki\".",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 113,
+        "name": "سُورَةُ الفَلَقِ",
+        "englishName": "Al-Falaq",
+        "englishNameTranslation": "The Dawn",
+        "numberOfAyahs": 5,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 604,
+      "ruku": 555,
+      "hizbQuarter": 240,
+      "sajda": false
+    }
+  ]
+]

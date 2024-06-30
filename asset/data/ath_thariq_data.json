@@ -1,0 +1,1464 @@
+[
+  [
+    {
+      "number": 5932,
+      "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلسَّمَآءِ وَٱلطَّارِقِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5932,
+      "text": "Wassamaaa'i wattaariq",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5932,
+      "text": "Demi langit dan yang datang pada malam hari,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 1,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5933,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلطَّارِقُ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5933,
+      "text": "Wa maaa adraaka mattaariq",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5933,
+      "text": "tahukah kamu apakah yang datang pada malam hari itu?",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 2,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5934,
+      "text": "ٱلنَّجْمُ ٱلثَّاقِبُ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5934,
+      "text": "Annajmus saaqib",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5934,
+      "text": "(yaitu) bintang yang cahayanya menembus,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 3,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5935,
+      "text": "إِن كُلُّ نَفْسٍۢ لَّمَّا عَلَيْهَا حَافِظٌۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5935,
+      "text": "In kullu nafsil lammaa 'alaihaa haafiz",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5935,
+      "text": "tidak ada suatu jiwapun (diri) melainkan ada penjaganya.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 4,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5936,
+      "text": "فَلْيَنظُرِ ٱلْإِنسَٰنُ مِمَّ خُلِقَ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5936,
+      "text": "Fal yanzuril insaanu mimma khuliq",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5936,
+      "text": "Maka hendaklah manusia memperhatikan dari apakah dia diciptakan?",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 5,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5937,
+      "text": "خُلِقَ مِن مَّآءٍۢ دَافِقٍۢ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5937,
+      "text": "Khuliqa mim maaa'in daafiq",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5937,
+      "text": "Dia diciptakan dari air yang dipancarkan,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 6,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5938,
+      "text": "يَخْرُجُ مِنۢ بَيْنِ ٱلصُّلْبِ وَٱلتَّرَآئِبِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5938,
+      "text": "Yakhruju mim bainissulbi wat taraaa'ib",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5938,
+      "text": "yang keluar dari antara tulang sulbi laki-laki dan tulang dada perempuan.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 7,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5939,
+      "text": "إِنَّهُۥ عَلَىٰ رَجْعِهِۦ لَقَادِرٌۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5939,
+      "text": "Innahoo 'alaa raj'ihee laqaadir",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5939,
+      "text": "Sesungguhnya Allah benar-benar kuasa untuk mengembalikannya (hidup sesudah mati).",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 8,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5940,
+      "text": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5940,
+      "text": "Yawma tublas saraaa'ir",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5940,
+      "text": "Pada hari dinampakkan segala rahasia,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 9,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5941,
+      "text": "فَمَا لَهُۥ مِن قُوَّةٍۢ وَلَا نَاصِرٍۢ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5941,
+      "text": "Famaa lahoo min quwwatinw wa laa naasir",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5941,
+      "text": "maka sekali-kali tidak ada bagi manusia itu suatu kekuatanpun dan tidak (pula) seorang penolong.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 10,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5942,
+      "text": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجْعِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5942,
+      "text": "Wassamaaa'i zaatir raj'",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5942,
+      "text": "Demi langit yang mengandung hujan",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 11,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5943,
+      "text": "وَٱلْأَرْضِ ذَاتِ ٱلصَّدْعِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 12,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5943,
+      "text": "Wal ardi zaatis sad'",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 12,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5943,
+      "text": "dan bumi yang mempunyai tumbuh-tumbuhan,",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 12,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5944,
+      "text": "إِنَّهُۥ لَقَوْلٌۭ فَصْلٌۭ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 13,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5944,
+      "text": "Innahoo laqawlun fasl",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 13,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5944,
+      "text": "sesungguhnya Al Quran itu benar-benar firman yang memisahkan antara yang hak dan yang bathil.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 13,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5945,
+      "text": "وَمَا هُوَ بِٱلْهَزْلِ",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 14,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5945,
+      "text": "Wa maa huwa bil hazl",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 14,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5945,
+      "text": "dan sekali-kali bukanlah dia senda gurau.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 14,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5946,
+      "text": "إِنَّهُمْ يَكِيدُونَ كَيْدًۭا",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 15,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5946,
+      "text": "Innahum yakeedoona kaidaa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 15,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5946,
+      "text": "Sesungguhnya orang kafir itu merencanakan tipu daya yang jahat dengan sebenar-benarnya.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 15,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5947,
+      "text": "وَأَكِيدُ كَيْدًۭا",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 16,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5947,
+      "text": "Wa akeedu kaidaa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 16,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5947,
+      "text": "Dan Akupun membuat rencana (pula) dengan sebenar-benarnya.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 16,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ],
+  [
+    {
+      "number": 5948,
+      "text": "فَمَهِّلِ ٱلْكَٰفِرِينَ أَمْهِلْهُمْ رُوَيْدًۢا",
+      "edition": {
+        "identifier": "quran-uthmani",
+        "language": "ar",
+        "name": "القرآن الكريم برسم العثماني (uthmani)",
+        "englishName": "Uthmani",
+        "format": "text",
+        "type": "quran",
+        "direction": "rtl"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 17,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5948,
+      "text": "Famahhilil kaafireena amhilhum ruwaidaa",
+      "edition": {
+        "identifier": "en.transliteration",
+        "language": "en",
+        "name": "Transliteration",
+        "englishName": "English Transliteration",
+        "format": "text",
+        "type": "transliteration",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 17,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    },
+    {
+      "number": 5948,
+      "text": "Karena itu beri tangguhlah orang-orang kafir itu yaitu beri tangguhlah mereka itu barang sebentar.",
+      "edition": {
+        "identifier": "id.indonesian",
+        "language": "id",
+        "name": "Bahasa Indonesia",
+        "englishName": "Unknown",
+        "format": "text",
+        "type": "translation",
+        "direction": "ltr"
+      },
+      "surah": {
+        "number": 86,
+        "name": "سُورَةُ الطَّارِقِ",
+        "englishName": "At-Taariq",
+        "englishNameTranslation": "The Morning Star",
+        "numberOfAyahs": 17,
+        "revelationType": "Meccan"
+      },
+      "numberInSurah": 17,
+      "juz": 30,
+      "manzil": 7,
+      "page": 591,
+      "ruku": 528,
+      "hizbQuarter": 236,
+      "sajda": false
+    }
+  ]
+]
