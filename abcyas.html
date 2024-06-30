@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Surat Yasin App</title>
+    <link rel="manifest" href="/manifest.json">
+    <link rel="icon" type="image/png" sizes="192x192" href="/icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="/icon-512x512.png">
+    <link rel="apple-touch-icon" href="/icon-192x192.png">
+    <meta name="theme-color" content="#4B0082">
+    <meta name="description" content="Aplikasi untuk membaca Surat Yasin">
+    <meta property="og:title" content="Surat Yasin App">
+    <meta property="og:description" content="Aplikasi untuk membaca Surat Yasin">
+    <meta property="og:image" content="/icon-512x512.png">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri&family=Noto+Naskh+Arabic&family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+    <style>
+        :root {
+            --base-font-size: 16px;
+            --arabic-font: 'Noto Naskh Arabic', serif;
+        }
+        .font-arabic { font-family: var(--arabic-font); }
+        body { font-family: 'Roboto', sans-serif; font-size: var(--base-font-size); }
+        .verse-container { transition: all 0.5s ease-out; }
+        .sidebar { transition: all 0.3s; }
+        .bottom-nav { position: fixed; bottom: 0; left: 0; right: 0; background: rgba(0,0,0,0.8); }
+    </style>
+</head>
+<body class="bg-gradient-to-br from-indigo-900 to-purple-800 text-white min-h-screen flex">
+    <!-- Sidebar -->
+    <div class="sidebar bg-indigo-800 w-64 space-y-6 py-7 px-2 absolute inset-y-0 left-0 transform -translate-x-full md:relative md:translate-x-0 transition duration-200 ease-in-out">
+        <nav>
+            <a href="#" class="nav-link block py-2.5 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-page="home">
+                Beranda
+            </a>
+            <a href="#" class="nav-link block py-2.5 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-page="bookmarks">
+                Bookmark
+            </a>
+            <a href="#" class="nav-link block py-2.5 px-4 rounded transition duration-200 hover:bg-indigo-700 hover:text-white" data-page="settings">
+                Pengaturan
+            </a>
+        </nav>
+    </div>
+
+    <div class="flex-1 flex flex-col overflow-hidden">
+        <header class="flex justify-between items-center p-4">
+            <button id="sidebarToggle" class="md:hidden">
+                <i class="fas fa-bars"></i>
+            </button>
+            <h1 class="text-3xl font-bold text-yellow-300">Surat Yasin</h1>
+            <button id="darkModeToggle" class="p-2 rounded-full bg-yellow-500 hover:bg-yellow-600 transition-colors text-gray-900">🌙</button>
+        </header>
+
+        <main class="flex-1 overflow-x-hidden overflow-y-auto">
+            <div class="container mx-auto px-4 max-w-3xl">
+                <!-- Home Page -->
+                <div id="home" class="page">
+                    <!-- Search Bar -->
+                    <div class="mb-4">
+                        <input type="text" placeholder="Cari ayat..." class="w-full p-2 rounded bg-white bg-opacity-20 text-white placeholder-gray-300">
+                    </div>
+
+                    <div id="verseContainer" class="verse-container bg-opacity-20 bg-white backdrop-filter backdrop-blur-lg rounded-lg shadow-lg p-8 mb-6 transform transition-all duration-500 ease-in-out">
+                        <!-- Ayat akan ditampilkan di sini -->
+                    </div>
+
+                    <div class="flex justify-between items-center mb-4">
+                        <button id="prevVerse" class="px-6 py-3 bg-yellow-500 text-gray-900 rounded-full hover:bg-yellow-600 transition-colors font-bold">
+                            <i class="fas fa-chevron-left mr-2"></i>Prev
+                        </button>
+                        <span id="verseNumber" class="text-xl font-semibold text-yellow-300"></span>
+                        <button id="nextVerse" class="px-6 py-3 bg-yellow-500 text-gray-900 rounded-full hover:bg-yellow-600 transition-colors font-bold">
+                            Next<i class="fas fa-chevron-right ml-2"></i>
+                        </button>
+                    </div>
+
+                    <!-- Audio Player -->
+                    <div class="mb-4">
+                        <audio id="audioPlayer" controls class="w-full">
+                            <source src="" type="audio/mpeg">
+                            Your browser does not support the audio element.
+                        </audio>
+                    </div>
+                </div>
+
+                <!-- Bookmarks Page -->
+                <div id="bookmarks" class="page hidden">
+                    <h2 class="text-2xl font-bold mb-4">Bookmarks</h2>
+                    <div id="bookmarksContainer">
+                        <!-- Bookmarks akan ditampilkan di sini -->
+                    </div>
+                </div>
+
+                <!-- Settings Page -->
+                <div id="settings" class="page hidden">
+                    <h2 class="text-2xl font-bold mb-4">Pengaturan</h2>
+                    <div class="mb-4">
+                        <label for="fontSizeSlider" class="block mb-2">Ukuran Font:</label>
+                        <input type="range" id="fontSizeSlider" min="12" max="24" value="16" class="w-full">
+                    </div>
+                    <div class="mb-4">
+                        <label for="arabicFontSelect" class="block mb-2">Font Arabic:</label>
+                        <select id="arabicFontSelect" class="w-full p-2 rounded bg-white bg-opacity-20 text-white">
+                            <option value="Noto Naskh Arabic">Noto Naskh Arabic</option>
+                            <option value="Amiri">Amiri</option>
+                            <!-- Tambahkan opsi font lainnya di sini -->
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <!-- Bottom Navigation for Mobile -->
+        <nav class="bottom-nav md:hidden">
+            <div class="flex justify-around py-2">
+                <a href="#" class="nav-link text-white" data-page="home"><i class="fas fa-home"></i></a>
+                <a href="#" class="nav-link text-white" data-page="bookmarks"><i class="fas fa-bookmark"></i></a>
+                <a href="#" class="nav-link text-white" data-page="settings"><i class="fas fa-cog"></i></a>
+            </div>
+        </nav>
+    </div>
+
+    <script src="yasin.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/service-worker.js')
+                    .then(registration => {
+                        console.log('Service Worker registered successfully:', registration.scope);
+                    })
+                    .catch(error => {
+                        console.log('Service Worker registration failed:', error);
+                    });
+            });
+        }
+    </script>
+</body>
+</html>

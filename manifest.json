@@ -1,0 +1,21 @@
+{
+    "name": "Surat Yasin App",
+    "short_name": "Yasin",
+    "description": "Aplikasi untuk membaca Surat Yasin",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#4B0082",
+    "theme_color": "#4B0082",
+    "icons": [
+      {
+        "src": "icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "icon-512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
