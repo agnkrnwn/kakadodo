@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Al-Qur'an Digital</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic&family=Roboto&family=Scheherazade&family=Lateef&family=Almarai:wght@300;400;700&display=swap" rel="stylesheet">
+</head>
+<style>
+    @font-face {
+            font-family: 'font1';
+            src: url('fonts/HQPB7.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'font2';
+            src: url('fonts/MSHQ.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'Pfont3';
+            src: url('fonts/PageD1.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'font4';
+            src: url('fonts/PageD2.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'font5';
+            src: url('fonts/PageQ1.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'font6';
+            src: url('fonts/PageQ2.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'font7';
+            src: url('fonts/PageQ3.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+    /* Styling for loading overlay */
+    #loadingOverlay {
+        z-index: 9999; /* Ensure it appears above other content */
+    }
+
+</style>
+
+<body class="bg-gray-100 dark:bg-gray-800 transition-colors duration-200">
+    <div class="container mx-auto px-4 py-8">
+        <div id="loadingOverlay" class="fixed inset-0 flex items-center justify-center bg-black bg-opacity-50 hidden">
+            <div class="bg-white dark:bg-gray-800 p-4 rounded-lg">
+                <p class="text-lg text-center text-gray-700 dark:text-gray-300">Sedang memuat surah, mohon tunggu...</p>
+            </div>
+        </div>
+        <div class="flex justify-between items-center mb-8">
+            <h1 class="text-3xl font-bold dark:text-white">TTafsir Al-Qur'an</h1>
+            <button id="darkModeToggle" class="p-2 bg-gray-200 dark:bg-gray-600 rounded dark:text-white">
+                <i class="fas fa-moon"></i>
+            </button>
+        </div>
+        <div class="mb-4">
+            <select id="surahSelect" class="w-full p-2 border rounded dark:bg-gray-600 dark:text-white">
+                <option value="">Pilih Surah</option>
+            </select>
+        </div>
+        <button onclick="loadSurah()" class="w-full bg-blue-500 text-white p-2 rounded hover:bg-blue-600">Tampilkan Surah</button>
+        <div id="audioPlayer" class="my-4"></div>
+        <div id="quranContent" class="mt-8 mb-16"></div>
+    </div>
+
+    <!-- Bottom Navbar -->
+    <nav class="fixed bottom-0 left-0 right-0 bg-white dark:bg-gray-700 shadow-lg">
+        <div class="flex justify-around items-center py-2">
+            <button id="settingsToggle" class="p-2 text-gray-600 dark:text-gray-300">
+                <i class="fas fa-cog"></i>
+            </button>
+            <button id="resetDefault" class="p-2 text-gray-600 dark:text-gray-300">
+                <i class="fas fa-undo"></i>
+            </button>
+        </div>
+    </nav>
+
+    <!-- Settings Modal -->
+    <div id="settingsModal" class="fixed inset-0 bg-black bg-opacity-50 hidden items-center justify-center">
+        <div class="bg-white dark:bg-gray-800 p-4 rounded-lg w-80">
+            <h2 class="text-xl font-bold mb-4 dark:text-white">Pengaturan</h2>
+            <div class="mb-4">
+                <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+                    <input type="checkbox" id="showArabic" checked class="mr-2">
+                    Tampilkan Teks Arab
+                </label>
+            </div>
+            <div class="mb-4">
+                <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
+                    <input type="checkbox" id="showTranslation" checked class="mr-2">
+                    Tampilkan Tafsir
+                </label>
+            </div>
+            <div class="mb-4">
+                <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Ukuran Font Arab</label>
+                <input type="range" id="arabicFontSize" min="16" max="40" value="24" class="w-full">
+            </div>
+            <div class="mb-4">
+                <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Font Arab</label>
+                <select id="arabicFont" class="w-full p-2 border rounded dark:bg-gray-600 dark:text-white">
+                    <option value="font1">HQPB7</option>
+                    <option value="font2">MSHQ</option>
+                    <option value="font3">PageD1</option>
+                    <option value="font4">PageD2</option>
+                    <option value="font5">PageQ1</option>
+                    <option value="font6">PageQ2</option>
+                    <option value="font7">PageQ3</option>
+                    <option value="'Amiri', serif">Amiri</option>
+                    <option value="'Noto Naskh Arabic', serif">Noto Naskh Arabic</option>
+                    <option value="'Roboto', sans-serif">Roboto</option>
+                    <option value="'Scheherazade', serif">Scheherazade</option>
+                    <option value="'Lateef', cursive">Lateef</option>
+                    <option value="'Almarai', sans-serif">Almarai</option>
+                </select>
+            </div>
+            <button id="closeSettings" class="w-full bg-blue-500 text-white p-2 rounded hover:bg-blue-600">Tutup</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
