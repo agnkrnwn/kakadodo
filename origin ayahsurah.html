@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aplikasi Baca Al-Quran</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel="stylesheet" href="stylexx.css">
+</head>
+<body class="bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100 pb-16">
+    <div id="main-content" class="max-w-4xl mx-auto bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 mb-16">
+        <h1 class="text-3xl font-bold mb-6 text-center text-green-600 dark:text-green-400">Aplikasi Baca Al-Quran</h1>
+
+        <div class="mb-4">
+            <label for="surah-select" class="block mb-2 font-semibold">Pilih Surah:</label>
+            <select id="surah-select" class="w-full p-2 border rounded dark:bg-gray-700 dark:border-gray-600">
+                <option value="">Pilih Surah</option>
+            </select>
+        </div>
+        
+        <div class="mb-4">
+            <label for="ayah-input" class="block mb-2 font-semibold">Nomor Ayat (opsional):</label>
+            <input type="number" id="ayah-input" class="w-full p-2 border rounded dark:bg-gray-700 dark:border-gray-600" min="1" placeholder="Kosongkan untuk menampilkan seluruh surah">
+        </div>
+        
+        <button id="load-button" class="w-full bg-green-500 text-white py-2 rounded hover:bg-green-600 transition duration-300 mb-4">Tampilkan</button>
+        
+        <div id="ayah-container" class="mt-6 space-y-8"></div>
+    </div>
+
+    <nav id="bottom-navbar" class="fixed bottom-0 left-0 right-0 bg-white dark:bg-gray-800 shadow-lg">
+        <ul class="flex justify-around items-center h-16">
+            <li><button id="home-btn" class="p-2"><i class="fas fa-home"></i></button></li>
+            <li><button id="bookmark-btn" class="p-2"><i class="fas fa-bookmark"></i></button></li>
+            <li><button id="settings-btn" class="p-2"><i class="fas fa-cog"></i></button></li>
+            <li><button id="scroll-top-btn" class="p-2"><i class="fas fa-arrow-up"></i></button></li>
+        </ul>
+    </nav>
+
+    <div id="bookmark-modal" class="fixed inset-0 bg-gray-600 bg-opacity-50 hidden items-center justify-center">
+        <div class="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-xl">
+            <h2 class="text-xl font-bold mb-4">Bookmark</h2>
+            <ul id="bookmark-list" class="mb-4"></ul>
+            <button id="close-bookmark-modal" class="bg-red-500 text-white px-4 py-2 rounded">Tutup</button>
+        </div>
+    </div>
+
+    <div id="settings-modal" class="fixed inset-0 bg-gray-600 bg-opacity-50 hidden items-center justify-center">
+        <div class="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-xl">
+            <h2 class="text-xl font-bold mb-4">Pengaturan</h2>
+            <div class="mb-4">
+                <label for="font-size" class="block mb-2">Ukuran Font:</label>
+                <input type="range" id="font-size" min="12" max="24" value="16" class="w-full">
+            </div>
+            <div class="mb-4">
+                <label for="dark-mode-toggle" class="block mb-2">Dark Mode:</label>
+                <input type="checkbox" id="dark-mode-toggle" class="toggle-checkbox">
+            </div>
+            <button id="close-settings-modal" class="bg-red-500 text-white px-4 py-2 rounded">Tutup</button>
+        </div>
+    </div>
+
+    <script src="qrin.js"></script>
+</body>
+</html>
+
+<script>
+    const surahSelect = document.getElementById('surah-select');
+const ayahInput = document.getElementById('ayah-input');
+const loadButton = document.getElementById('load-button');
+const ayahContainer = document.getElementById('ayah-container');
+
+const homeBtn = document.getElementById('home-btn');
+const bookmarkBtn = document.getElementById('bookmark-btn');
+const settingsBtn = document.getElementById('settings-btn');
+const scrollTopBtn = document.getElementById('scroll-top-btn');
+
+const bookmarkModal = document.getElementById('bookmark-modal');
+const closeBookmarkModal = document.getElementById('close-bookmark-modal');
+const bookmarkList = document.getElementById('bookmark-list');
+
+const settingsModal = document.getElementById('settings-modal');
+const closeSettingsModal = document.getElementById('close-settings-modal');
+const fontSizeSlider = document.getElementById('font-size');
+const darkModeToggle = document.getElementById('dark-mode-toggle');
+
+let bookmarks = JSON.parse(localStorage.getItem('quran-bookmarks')) || [];
+
+async function fetchSurahs() {
+    const response = await fetch('https://api.alquran.cloud/v1/surah');
+    const data = await response.json();
+    return data.data;
+}
+
+fetchSurahs().then(surahs => {
+    surahs.forEach(surah => {
+        const option = document.createElement('option');
+        option.value = surah.number;
+        option.textContent = `${surah.number}. ${surah.englishName} (${surah.name})`;
+        surahSelect.appendChild(option);
+    });
+});
+
+loadButton.addEventListener('click', loadAyahs);
+
+async function loadAyahs() {
+    const surahId = surahSelect.value;
+    const ayahNumber = ayahInput.value;
+    
+    if (surahId) {
+        let url = `https://api.alquran.cloud/v1/surah/${surahId}/editions/quran-uthmani,id.indonesian,en.transliteration`;
+        if (ayahNumber) {
+            url = `https://api.alquran.cloud/v1/ayah/${surahId}:${ayahNumber}/editions/quran-uthmani,id.indonesian,en.transliteration`;
+        }
+        
+        const response = await fetch(url);
+        const data = await response.json();
+        
+        if (ayahNumber) {
+            displaySingleAyah(data.data);
+        } else {
+            displayAyahs(data.data[0].ayahs, data.data[1].ayahs, data.data[2].ayahs);
+        }
+    }
+}
+
+function displayAyahs(arabicAyahs, indonesianAyahs, transliterationAyahs) {
+    ayahContainer.innerHTML = '';
+    arabicAyahs.forEach((ayah, index) => {
+        const ayahElement = document.createElement('div');
+        ayahElement.className = 'border-b pb-4 mb-4 last:border-b-0';
+        
+        const surahNumber = surahSelect.value;
+        
+        ayahElement.innerHTML = `
+            <div class="flex justify-between items-center mb-2">
+                <span class="text-sm font-semibold text-gray-600 dark:text-gray-400">${surahNumber}:${ayah.numberInSurah}</span>
+                <div>
+                    <button class="play-btn text-green-500 mr-2" data-audio="https://cdn.islamic.network/quran/audio/128/ar.alafasy/${ayah.number}.mp3">
+                        <i class="fas fa-play"></i>
+                    </button>
+                    <button class="bookmark-btn text-green-500" data-surah="${surahNumber}" data-ayah="${ayah.numberInSurah}">
+                        <i class="fas fa-bookmark"></i>
+                    </button>
+                </div>
+            </div>
+            <p class="text-2xl text-right font-arabic mb-4">${ayah.text}</p>
+            <p class="text-lg mb-2 italic">${transliterationAyahs[index].text}</p>
+            <p class="mb-4">${indonesianAyahs[index].text}</p>
+        `;
+        ayahContainer.appendChild(ayahElement);
+    });
+    addBookmarkListeners();
+    addPlayListeners();
+}
+
+function displaySingleAyah(ayahData) {
+    ayahContainer.innerHTML = '';
+    const arabicAyah = ayahData.find(a => a.edition.identifier === 'quran-uthmani');
+    const indonesianAyah = ayahData.find(a => a.edition.identifier === 'id.indonesian');
+    const transliterationAyah = ayahData.find(a => a.edition.identifier === 'en.transliteration');
+    
+    const ayahElement = document.createElement('div');
+    ayahElement.className = 'border-b pb-4 mb-4';
+    
+    const surahNumber = surahSelect.value;
+    
+    ayahElement.innerHTML = `
+        <div class="flex justify-between items-center mb-2">
+            <span class="text-sm font-semibold text-gray-600 dark:text-gray-400">${surahNumber}:${arabicAyah.numberInSurah}</span>
+            <div>
+                <button class="play-btn text-green-500 mr-2" data-audio="https://cdn.islamic.network/quran/audio/128/ar.alafasy/${arabicAyah.number}.mp3">
+                    <i class="fas fa-play"></i>
+                </button>
+                <button class="bookmark-btn text-green-500" data-surah="${surahNumber}" data-ayah="${arabicAyah.numberInSurah}">
+                    <i class="fas fa-bookmark"></i>
+                </button>
+            </div>
+        </div>
+        <p class="text-2xl text-right font-arabic mb-4">${arabicAyah.text}</p>
+        <p class="text-lg mb-2 italic">${transliterationAyah.text}</p>
+        <p class="mb-4">${indonesianAyah.text}</p>
+    `;
+    ayahContainer.appendChild(ayahElement);
+    addBookmarkListeners();
+    addPlayListeners();
+}
+
+function addBookmarkListeners() {
+    const bookmarkButtons = document.querySelectorAll('.bookmark-btn');
+    bookmarkButtons.forEach(btn => {
+        btn.addEventListener('click', function() {
+            const surah = this.dataset.surah;
+            const ayah = this.dataset.ayah;
+            addBookmark(surah, ayah);
+        });
+    });
+}
+
+function addPlayListeners() {
+    const playButtons = document.querySelectorAll('.play-btn');
+    playButtons.forEach(btn => {
+        btn.addEventListener('click', function() {
+            const audio = new Audio(this.dataset.audio);
+            audio.play();
+        });
+    });
+}
+
+function addBookmark(surah, ayah) {
+    const bookmark = { surah, ayah };
+    if (!bookmarks.some(b => b.surah === surah && b.ayah === ayah)) {
+        bookmarks.push(bookmark);
+        localStorage.setItem('quran-bookmarks', JSON.stringify(bookmarks));
+        alert('Bookmark ditambahkan');
+    } else {
+        alert('Bookmark sudah ada');
+    }
+}
+
+homeBtn.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
+bookmarkBtn.addEventListener('click', () => {
+    displayBookmarks();
+    bookmarkModal.style.display = 'flex';
+});
+
+closeBookmarkModal.addEventListener('click', () => {
+    bookmarkModal.style.display = 'none';
+});
+
+settingsBtn.addEventListener('click', () => {
+    settingsModal.style.display = 'flex';
+});
+
+closeSettingsModal.addEventListener('click', () => {
+    settingsModal.style.display = 'none';
+});
+
+scrollTopBtn.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
+fontSizeSlider.addEventListener('input', (e) => {
+    document.body.style.fontSize = `${e.target.value}px`;
+});
+
+darkModeToggle.addEventListener('change', () => {
+    document.body.classList.toggle('dark');
+});
+
+function displayBookmarks() {
+    bookmarkList.innerHTML = '';
+    bookmarks.forEach(bookmark => {
+        const li = document.createElement('li');
+        li.className = 'bookmark-item';
+        li.textContent = `Surah ${bookmark.surah}, Ayat ${bookmark.ayah}`;
+        li.addEventListener('click', () => {
+            surahSelect.value = bookmark.surah;
+            ayahInput.value = bookmark.ayah;
+            loadAyahs();
+            bookmarkModal.style.display = 'none';
+        });
+        bookmarkList.appendChild(li);
+    });
+}
+
+// Initialize dark mode
+if (localStorage.getItem('darkMode') === 'enabled') {
+    document.body.classList.add('dark');
+    darkModeToggle.checked = true;
+}
+
+darkModeToggle.addEventListener('change', () => {
+    if (darkModeToggle.checked) {
+        document.body.classList.add('dark');
+        localStorage.setItem('darkMode', 'enabled');
+    } else {
+        document.body.classList.remove('dark');
+        localStorage.setItem('darkMode', null);
+    }
+});
+</script>

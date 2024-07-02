@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aplikasi Baca Al-Quran</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
+    <link rel="stylesheet" href="stylexx.css">
+    <script src="/tailwind.config.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&family=Noto+Naskh+Arabic&family=Amiri&display=swap');
+        .sticky-header {
+            position: -webkit-sticky; /* Safari */
+            position: sticky;
+            top: 0;
+            background-color: white;
+            z-index: 50;
+            border-bottom: 1px solid #e5e7eb;
+            padding: 1rem;
+            text-align: center;
+            font-weight: bold;
+            display: none;
+        }
+        .dark .sticky-header {
+            background-color: #374151;
+            border-bottom-color: #4b5563;
+        }
+    </style>
+</head>
+<body class="bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100 pb-16">
+    <div id="main-content" class="max-w-4xl mx-auto bg-white dark:bg-gray-800 rounded-lg shadow-md p-6 mb-16">
+        <h1 class="text-3xl font-bold mb-6 text-center text-green-600 dark:text-green-400 flex items-center justify-center">
+            <i class="fas fa-book-open mr-2"></i> Al-Quran
+        </h1>
+        
+    
+        <div class="mb-4 flex items-center space-x-4">
+            <div class="flex-grow">
+                <label for="surah-select" class="block mb-2 font-semibold">Pilih Surah:</label>
+                <select id="surah-select" class="w-full p-2 border rounded dark:bg-gray-700 dark:border-gray-600">
+                    <option value="">Pilih Surah</option>
+                </select>
+            </div>
+            <button id="toggle-ayah-input" class="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600 transition duration-300 self-end">
+                <i class="fas fa-sort-numeric-up-alt mr-2"></i>
+            </button>
+            
+        </div>
+        
+        <div id="ayah-input-container" class="mb-4 hidden">
+            <label for="ayah-input" class="block mb-2 font-semibold">Nomor Ayat (opsional):</label>
+            <input type="number" id="ayah-input" class="w-full p-2 border rounded dark:bg-gray-700 dark:border-gray-600" min="1" placeholder="Kosongkan untuk menampilkan seluruh surah">
+        </div>
+        
+        <button id="load-button" class="w-full bg-green-500 text-white py-2 rounded hover:bg-green-600 transition duration-300 mb-4">
+            <i class="fas fa-eye"></i> Tampilkan
+        </button>
+        
+
+        <div id="sticky-header" class="sticky-header">Surah: <span id="current-surah-title"></span></div>
+    
+        <div id="ayah-container" class="mt-6 space-y-8"></div>
+    </div>
+    
+    <div id="bottom-bar" class="fixed bottom-16 left-0 right-0 bg-white dark:bg-gray-800 shadow-lg p-6 transition-all duration-300 transform translate-y-full max-h-[80vh] overflow-y-auto rounded-t-lg">
+        <div class="max-w-4xl mx-auto">
+            <h2 class="text-xl font-bold mb-4 text-center">Pengaturan</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
+                <div>
+                    <label for="font-size" class="block mb-2 font-medium">Ukuran Font:</label>
+                    <input type="range" id="font-size" min="12" max="24" value="16" class="w-full appearance-none h-2 bg-gray-300 dark:bg-gray-600 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-500">
+                </div>
+                <div>
+                    <label for="arabic-font-size" class="block mb-2 font-medium">Ukuran Font Arab:</label>
+                    <input type="range" id="arabic-font-size" min="18" max="36" value="24" class="w-full appearance-none h-2 bg-gray-300 dark:bg-gray-600 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-500">
+                </div>
+                <div>
+                    <label for="arabic-font" class="block mb-2 font-medium">Font Arab:</label>
+                    <select id="arabic-font" class="w-full p-2 border rounded-lg dark:bg-gray-700 dark:border-gray-600 focus:outline-none focus:ring-2 focus:ring-green-500">
+                        <option value="UthmanicHafs">UthmanicHafs</option>
+                        <option value="Scheherazade New">Scheherazade New</option>
+                        <option value="Noto Naskh Arabic">Noto Naskh Arabic</option>
+                        <option value="Amiri">Amiri</option>
+                        <option value="'Lateef', cursive">Lateef</option>
+                        <option value="font1">HQPB7</option>
+                        <option value="font2">MSHQ</option>
+                        <option value="font3">PageD1</option>
+                        <option value="font4">PageD2</option>
+                        <option value="font5">PageQ1</option>
+                        <option value="font6">PageQ2</option>
+                        <option value="font7">PageQ3</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="block mb-2 font-medium">Tampilkan:</label>
+                    <div class="flex items-center mb-2">
+                        <input type="checkbox" id="show-arabic" class="toggle-checkbox" checked>
+                        <label for="show-arabic" class="ml-2 flex items-center">
+                            <i class="fas fa-language mr-1"></i> Teks Arab
+                        </label>
+                    </div>
+                    <div class="flex items-center mb-2">
+                        <input type="checkbox" id="show-translation" class="toggle-checkbox" checked>
+                        <label for="show-translation" class="ml-2 flex items-center">
+                            <i class="fas fa-globe mr-1"></i> Terjemahan
+                        </label>
+                    </div>
+                    <div class="flex items-center">
+                        <input type="checkbox" id="show-transliteration" class="toggle-checkbox" checked>
+                        <label for="show-transliteration" class="ml-2 flex items-center">
+                            <i class="fas fa-book-reader mr-1"></i> Transliterasi
+                        </label>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="mt-4">
+                <label for="dark-mode-toggle" class="block mb-2 font-medium">Dark Mode:</label>
+                <input type="checkbox" id="dark-mode-toggle" class="toggle-checkbox">
+            </div>
+            <div class="mt-4">
+                <h3 class="font-bold mb-2 text-center">Contoh Font:</h3>
+                <p id="font-example" class="text-2xl text-right mb-4" style="font-family: 'Scheherazade New';">بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيْمِ</p>
+            </div>
+            <div class="mt-4 flex justify-between bg-white dark:bg-gray-800 py-2 rounded-b-lg">
+                <button id="reset-settings" class="bg-yellow-500 text-white px-4 py-2 rounded-lg hover:bg-yellow-600 transition">Reset Pengaturan</button>
+                <button id="close-bottom-bar" class="bg-red-500 text-white px-4 py-2 rounded-lg hover:bg-red-600 transition">Tutup</button>
+            </div>
+        </div>
+    </div>
+    
+
+    <nav id="bottom-navbar" class="fixed bottom-0 left-0 right-0 bg-white dark:bg-gray-800 shadow-lg">
+        <ul class="flex justify-around items-center h-16">
+            <li><button id="home-btn" class="p-2"><i class="fas fa-home"></i></button></li>
+            <li><button id="bookmark-btn" class="p-2"><i class="fas fa-bookmark"></i></button></li>
+            <li><button id="settings-btn" class="p-2"><i class="fas fa-cog"></i></button></li>
+            <li><button id="scroll-top-btn" class="p-2"><i class="fas fa-arrow-up"></i></button></li>
+        </ul>
+    </nav>
+
+    <div id="bookmark-modal" class="fixed inset-0 bg-gray-600 bg-opacity-50 hidden items-center justify-center z-50">
+        <div class="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-xl max-h-[80vh] overflow-y-auto w-full max-w-lg">
+            <h2 class="text-xl font-bold mb-4 text-center">Bookmark</h2>
+            <ul id="bookmark-list" class="mb-6 space-y-2"></ul>
+            <div class="sticky bottom-0 bg-white dark:bg-gray-800 py-2 flex justify-between rounded-b-lg shadow-inner">
+                <button id="clear-bookmarks" class="bg-yellow-500 text-white px-4 py-2 rounded-lg hover:bg-yellow-600 transition">Clear Bookmarks</button>
+                <button id="close-bookmark-modal" class="bg-red-500 text-white px-4 py-2 rounded-lg hover:bg-red-600 transition">Tutup</button>
+            </div>
+        </div>
+    </div>
+    
+
+    <script src="qrin.js"></script>
+    <script>
+        
+    </script>
+</body>
+</html>

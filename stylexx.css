@@ -1,0 +1,175 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Scheherazade&family=Noto+Naskh+Arabic&family=Amiri&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Scheherazade+New&family=Noto+Naskh+Arabic&family=Amiri&display=swap'); */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Naskh+Arabic&family=Roboto&family=Scheherazade&family=Lateef&family=Almarai:wght@300;400;700&display=swap');
+
+@font-face {
+    font-family: 'UthmanicHafs';
+    src: url('fonts/UthmanicHafs.otf') format('opentype');
+}
+@font-face {
+    font-family: 'font1';
+    src: url('fonts/HQPB7.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'font2';
+    src: url('fonts/MSHQ.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Pfont3';
+    src: url('fonts/PageD1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'font4';
+    src: url('fonts/PageD2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'font5';
+    src: url('fonts/PageQ1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'font6';
+    src: url('fonts/PageQ2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'font7';
+    src: url('fonts/PageQ3.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    --latin-font-size: 18px;
+}
+
+.transliteration-text {
+    font-size: var(--latin-font-size);
+}
+
+.translation-text {
+    font-size: calc(var(--latin-font-size) - 2px);
+}
+
+.arabic-text {
+    font-size: 2rem; /* atau ukuran yang Anda inginkan */
+}
+
+.playing {
+    background-color: #f0f0f01a; /* Warna latar belakang untuk ayat yang sedang diputar */
+    padding: 0.5rem; /* Tambahkan padding untuk memberikan ruang di sekitar teks */
+    border-left: 4px solid #38a169; /* Garis sisi sebagai penanda tambahan */
+}
+
+
+        .sticky-header {
+            position: -webkit-sticky; /* Safari */
+            position: sticky;
+            top: 0;
+            background-color: white;
+            z-index: 50;
+            border-bottom: 1px solid #e5e7eb;
+            padding: 1rem;
+            text-align: center;
+            font-weight: bold;
+            display: none;
+        }
+        .dark .sticky-header {
+            background-color: #374151;
+            border-bottom-color: #4b5563;
+        }
+
+
+.bookmark-item:hover {
+    background-color: #e0e0e0;
+}
+
+.toggle-checkbox {
+    appearance: none;
+    width: 50px;
+    height: 25px;
+    background-color: #ccc;
+    border-radius: 25px;
+    position: relative;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.toggle-checkbox:checked {
+    background-color: #4CAF50;
+}
+
+.toggle-checkbox::before {
+    content: '';
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    border-radius: 50%;
+    top: 2px;
+    left: 2px;
+    background-color: white;
+    transition: transform 0.3s;
+}
+
+.toggle-checkbox:checked::before {
+    transform: translateX(25px);
+}
+
+/* ... (bagian lain tetap sama) ... */
+
+.bookmark-item {
+    cursor: pointer;
+    padding: 8px;
+    margin-bottom: 4px;
+    background-color: #f0f0f0;
+    border-radius: 4px;
+    color: #333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1rem;
+}
+
+
+.dark .bookmark-item {
+    background-color: #4a5568;
+    color: #e2e8f0;
+}
+
+.bookmark-item:hover {
+    background-color: #e0e0e0;
+}
+
+.dark .bookmark-item:hover {
+    background-color: #2d3748;
+}
+
+/* ... (bagian lain tetap sama) ... */
+
+
+.delete-bookmark {
+    padding: 0.25rem 0.5rem;
+    margin-left: 1rem;
+    transition: background-color 0.3s;
+}
+
+.delete-bookmark:hover {
+    background-color: rgba(254, 202, 202, 0.5);
+}
